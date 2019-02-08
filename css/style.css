@@ -1,0 +1,51 @@
+.top-bar{
+    background-color:#111; 
+}
+
+.hero-section{
+    background-image: url("../img/bg-hero.jpg");
+    padding: 10rem 0;
+}
+
+
+.news-section{
+    padding: 3.5rem 0;
+}
+
+.feature-section{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3.5rem 0;
+    color: black;
+}
+
+.overview-section,
+.premium-section,
+.newslatter-section{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#fff;
+}
+
+.overview-section{
+    background-image: url(../img/bg-overview.jpg);
+    padding: 8rem 0;
+}
+.premium-section{
+    background-image: url(../img/bg-premium.jpg);
+    padding: 5rem 0;
+}
+
+.newslatter-section{
+    background-image: url(../img/bg-newslatter.jpg);
+    padding: 5rem 0;
+    
+}
+
+.footer-section{
+    background-color: #111;
+    color: azure;
+    padding: 3.5rem 0;
+}
